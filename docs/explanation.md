@@ -1,4 +1,8 @@
-# About
+---
+title: Explanation
+---
+
+# Explanation
 
 <!-- TODO: Add front matter with title, description, and icon -->
 
@@ -76,13 +80,21 @@ proportion of body weight for a massive animal.
 
 Comparing Brachiosaurus and Velociraptor:
 
-Brachiosaurus: Weight 56,000 kg, daily intake 400 kg, food ratio 0.007
-(0.7%). A massive herbivore, but its daily intake is less than 1% of
-body weight.
+!!! example "Comparing Brachiosaurus and Velociraptor"
 
-Velociraptor: Weight 15 kg, daily intake 2 kg, food ratio 0.133 (13.3%).
-Tiny by comparison, but eating over 13% of its body weight daily. Small
-predators have much higher metabolic demands relative to their size.
+    === "Brachiosaurus"
+          - Weight 56,000 kg,
+          - daily intake 400 kg,
+          - food ratio 0.007 (0.7%).
+          - A massive herbivore, but its daily intake is less than 1% of
+            body weight.
+
+    === "Velociraptor"
+          - **Weight** 15 kg,
+          - daily intake 2 kg, 
+          - food ratio 0.133 (13.3%).
+          - Tiny by comparison, but eating over 13% of its body weight daily. Small
+            predators have much higher metabolic demands relative to their size.
 
 ## Diet classifications
 
